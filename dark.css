@@ -1,0 +1,19 @@
+:root {
+  --main-color: #282a36;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+header {
+  height: 15vh;
+  background-color: var(--main-color);
+  filter: brightness(90%);
+}
+
+body {
+  background-color: var(--main-color);
+}
